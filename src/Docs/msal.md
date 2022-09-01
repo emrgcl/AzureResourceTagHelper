@@ -30,5 +30,9 @@ function withInteractiveBrowserCredential() {
 ## Azure sdk for JAvascript reference
 https://docs.microsoft.com/en-us/javascript/api/@azure/identity/?source=recommendations&view=azure-node-latest
 
+[Microsoft Authentication Library for JavaScript (MSAL.js)](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+
+[Microsoft Authentication Library for React (msal-react)](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-react)
+
 # contacts
 Jon Gallant
